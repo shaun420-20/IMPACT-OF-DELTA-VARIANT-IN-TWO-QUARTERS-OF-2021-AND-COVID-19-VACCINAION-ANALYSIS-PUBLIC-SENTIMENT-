@@ -1,2 +1,4 @@
-# Sentiment-Analysis-on-Twitter-Data-for-Covid19-Vaccinations-and-Delta-Variant-as-well-as-Predicting-
+# IMPACT OF DELTA VARIANT IN TWO QUARTERS OF 2021 AND COVID-19 VACCINAION ANALYSIS : PUBLIC SENTIMENT ANALYSIS ON TWITTER DATA USING NATURAL LANGUAGE PROCESSING.
+![image](https://user-images.githubusercontent.com/67545559/153314195-cb24c80a-34f5-41dd-a5d2-dc2cfd89e2ac.png)
+
 In this study, we work with a database of around 2000 tweets of each vaccination from 01-01-2021 to 31-05-2021 to draw conclusions about public sentiments towards the vaccination outlook when vaccinations become widely available to the population during the COVID-19 pandemic. deployed natural language processing and sentiment analysis techniques to reveal insights about COVID-19 vaccination awareness among the public. Results show that people have positive sentiments towards taking COVID-19 vaccines instead of some adverse effects of some of the vaccines. Technology used are Unsupervised lexicon-based approaches which consist of text blob and Vadar methodlogies
